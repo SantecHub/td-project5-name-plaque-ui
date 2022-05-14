@@ -1,0 +1,41 @@
+body{
+    background-color:rgb(22, 26, 24);
+    padding: 150px 400px ;
+    }
+.plaque{
+    color: white;
+    padding: 5px 5px 10px;
+    }
+.tag{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 450px;
+}
+
+input{ font-weight: bold;
+
+}
+.name p{
+    background-color:white ;
+    border-color: rgb(228, 75, 75);
+    border: solid 15px rgb(236, 108, 108) ;
+    font-size: 15px;
+    box-shadow: 15px black;
+    padding: 15px 30px;
+}
+
+.price h2:nth-child(1){
+    background-color: white;
+    padding: 3px 6px;
+
+}
+button{
+    background-color: aqua;
+    color: white;
+    border: 0;
+    padding: 4px 4px 5px;
+    
+}
+
+
+
